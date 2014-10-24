@@ -1,4 +1,7 @@
-use std::time;
+
 fn main() {
-	time::at(); }
-pub fn at(clock: Timespec) -> Tm {}
+let mut x = 1i;
+while x < 10 {
+println!("wat");
+x = x + 1; }
+}
